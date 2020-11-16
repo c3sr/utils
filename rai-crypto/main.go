@@ -1,6 +1,6 @@
 package main
 
-import "github.com/rai-project/utils/rai-crypto/cmd"
+import "github.com/c3sr/utils/rai-crypto/cmd"
 
 func main() {
 	cmd.Execute()

@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/pkg/errors"
-	"github.com/rai-project/utils"
+	"github.com/c3sr/utils"
 	"github.com/spf13/cobra"
 )
 
