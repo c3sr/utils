@@ -6,7 +6,7 @@ package utils
 import (
 	"reflect"
 
-	"github.com/k0kubun/pp"
+	"github.com/k0kubun/pp/v3"
 
 	"github.com/cheekybits/genny/generic"
 	"github.com/pkg/errors"
