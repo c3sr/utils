@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 )
 
 var (
